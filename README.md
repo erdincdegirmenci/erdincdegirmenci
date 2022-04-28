@@ -10,12 +10,12 @@
 
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![vuejs](https://img.shields.io/badge/Vuejs-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![vue](https://img.shields.io/badge/Vuejs-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Front-End Development
 
-![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![vuejs](https://img.shields.io/badge/Vuejs-4FC08D?style=for-the-badge&logo=vue.js&logoColor=4f64c0)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
