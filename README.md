@@ -38,7 +38,6 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/erdincdegirmenci)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://erdincdegirmenci.medium.com/)
 [![outlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)](mailto:erdinc.degirmenci@outlook.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erdinc.degirmenci/)
 
 
 
